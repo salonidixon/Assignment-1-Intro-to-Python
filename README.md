@@ -7,7 +7,7 @@ For this assignment, a python script was created in order to independently perfo
 
 ### Required Files: 
 
-chr1_GL383518v1_alt.fa enables 
+chr1_GL383518v1_alt.fa: compressed FASTA sequence of each chromosome from UCSC Genome Browser.
 
 ### Required Packages: 
 There are no specific packages required for this repository. 
